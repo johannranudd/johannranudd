@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johannranudd
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js and Next.js
+- 🌱 I’m currently learning React.js, Next.js, Vue.js 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: johnrand380@gmail.com / https://www.linkedin.com/in/johann-ranudd/
 
