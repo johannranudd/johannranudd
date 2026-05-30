@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johannranudd
-- 👀 I’m interested in software development
-- 🌱 I’m working on projects that use React.js/Next.js, Vue.js/Nuxt.js, Sveltekit and Node.js 
-- 💞️ I’m looking to collaborate on projects
+- 💻 Software Developer and Cybersecurity-focused Data Engineering student
+- 👀 Interested in Software Engineering, Cybersecurity and CTFs
+- 💞️ Open to collaboration and interesting opportunities
 - 📫 How to reach me: johnrand380@gmail.com / https://www.linkedin.com/in/johann-ranudd/
 - Check out my portfolio: :ringed_planet: https://portfolio-johann-ranudd.vercel.app/  :ringed_planet:
 
